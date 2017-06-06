@@ -1,0 +1,4 @@
+#Livro         #exemplares 
+ciencia          7 
+portugues        8
+matematica        4
